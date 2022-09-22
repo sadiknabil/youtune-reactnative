@@ -1,8 +1,9 @@
 {
     "name": "youtune",
     "version": "0.0.1",
+    "homepage": "https://sadiknabil.github.io/youtune-reactnative",
     "author": "Kevin Pfeifer <kevin1174@schule.bremen.de>",
-    "repository": "github:kvnp/youtune-reactnative",
+    "repository": "github:sadiknabil/youtune-reactnative",
     "license": "GPL-3.0",
     "engines": {
         "node": "17.x",
